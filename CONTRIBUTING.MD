@@ -6,7 +6,7 @@ Welcome to this project. We want to thanks you in advance if you wish to contrib
 
 ## Environment details
 
-For any informations about the project environment and how to install the project, please refer to the **[Readme.md](https://github.com/Traineau/resizer-group01/blob/master/Readme.md)** file.
+For any informations about the project environment and how to install the project, please refer to the **[Readme.md](https://github.com/HETIC-MT-P2021/back-group1-proj02/blob/master/Readme.md)** file.
 
 ## Testing
 
@@ -18,7 +18,7 @@ To submit changes you need to create a branch from develop where you will be abl
 
 ## Issues
 
-If you have any issues concerning the app utilisation or for contributing, feel free to report an issue following this **[Issue template](https://github.com/Traineau/resizer-group01/blob/master/issue_template.md)**
+If you have any issues concerning the app utilisation or for contributing, feel free to report an issue following this **[Issue template](https://github.com/HETIC-MT-P2021/back-group1-proj02/blob/master/issue_template.md)**
 
 ## PR and commit standards
 
@@ -51,4 +51,4 @@ The different types are:
 
 ## License
 
-Please refer to the **[license.md](https://github.com/Traineau/resizer-group01/blob/master/LICENSE)** file. 
+Please refer to the **[license.md](https://github.com/HETIC-MT-P2021/back-group1-proj02/blob/master/LICENSE)** file. 
